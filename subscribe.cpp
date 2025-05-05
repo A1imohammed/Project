@@ -10,7 +10,7 @@ using namespace std;
 #define CLIENTID    "Beagle2"
 #define TOPIC       "A1imohammed/feeds/syedfinalproject.temperaturesensor"
 #define AUTHMETHOD  "A1imohammed"
-#define AUTHTOKEN   "aio_TbKn39tHtCa2jBrJ0Idv4h3U47P7"
+#define AUTHTOKEN   "Enter AIO Pin"
 #define QOS         1
 #define TIMEOUT     10000L
 #define LED_GPIO    "/sys/class/gpio/gpio60/"

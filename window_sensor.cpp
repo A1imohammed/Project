@@ -27,7 +27,7 @@ int main() {
 	conn_opts.cleansession = 1;
 
 	conn_opts.username = "A1imohammed"; 
-	conn_opts.password = "aio_TbKn39tHtCa2jBrJ0Idv4h3U47P7"; 
+	conn_opts.password = "Enter AIO Pin"; 
 
 	int rc = MQTTClient_connect(client, &conn_opts);
        	if (rc != MQTTCLIENT_SUCCESS) {
